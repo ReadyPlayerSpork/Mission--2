@@ -1,0 +1,14 @@
+/Users/luke/Documents/School/Winter 2026/Enterprise App Development/Mission #2/Mission_2/Mission_2/bin/Debug/net10.0/Mission_2
+/Users/luke/Documents/School/Winter 2026/Enterprise App Development/Mission #2/Mission_2/Mission_2/bin/Debug/net10.0/Mission_2.deps.json
+/Users/luke/Documents/School/Winter 2026/Enterprise App Development/Mission #2/Mission_2/Mission_2/bin/Debug/net10.0/Mission_2.runtimeconfig.json
+/Users/luke/Documents/School/Winter 2026/Enterprise App Development/Mission #2/Mission_2/Mission_2/bin/Debug/net10.0/Mission_2.dll
+/Users/luke/Documents/School/Winter 2026/Enterprise App Development/Mission #2/Mission_2/Mission_2/bin/Debug/net10.0/Mission_2.pdb
+/Users/luke/Documents/School/Winter 2026/Enterprise App Development/Mission #2/Mission_2/Mission_2/obj/Debug/net10.0/Mission_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luke/Documents/School/Winter 2026/Enterprise App Development/Mission #2/Mission_2/Mission_2/obj/Debug/net10.0/Mission_2.AssemblyInfoInputs.cache
+/Users/luke/Documents/School/Winter 2026/Enterprise App Development/Mission #2/Mission_2/Mission_2/obj/Debug/net10.0/Mission_2.AssemblyInfo.cs
+/Users/luke/Documents/School/Winter 2026/Enterprise App Development/Mission #2/Mission_2/Mission_2/obj/Debug/net10.0/Mission_2.csproj.CoreCompileInputs.cache
+/Users/luke/Documents/School/Winter 2026/Enterprise App Development/Mission #2/Mission_2/Mission_2/obj/Debug/net10.0/Mission_2.dll
+/Users/luke/Documents/School/Winter 2026/Enterprise App Development/Mission #2/Mission_2/Mission_2/obj/Debug/net10.0/refint/Mission_2.dll
+/Users/luke/Documents/School/Winter 2026/Enterprise App Development/Mission #2/Mission_2/Mission_2/obj/Debug/net10.0/Mission_2.pdb
+/Users/luke/Documents/School/Winter 2026/Enterprise App Development/Mission #2/Mission_2/Mission_2/obj/Debug/net10.0/Mission_2.genruntimeconfig.cache
+/Users/luke/Documents/School/Winter 2026/Enterprise App Development/Mission #2/Mission_2/Mission_2/obj/Debug/net10.0/ref/Mission_2.dll
